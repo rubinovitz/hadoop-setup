@@ -12,7 +12,7 @@ tallation
 
 4. Configure SSH into hduser
 
-	$ su - hduser
+	su - hduser
 	hduser@ubuntu:~$ ssh-keygen -t rsa -P ""
 	Generating public/private rsa key pair.
 	Enter file in which to save the key (/home/hduser/.ssh/id_rsa):
